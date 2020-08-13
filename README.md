@@ -1,1 +1,1 @@
-DjangoBlog
+My Django Blog website
